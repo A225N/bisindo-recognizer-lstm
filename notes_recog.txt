@@ -1,0 +1,388 @@
+1.belajar v #
+4.ingat v 
+7.makan v #
+9.aku v #
+12.apa v #
+13.siapa v #
+14.kapan v #
+15.di mana -> mismatch sama apa (per frame mirip) -> better klo pake lstm biasa #
+16.mengapa v 
+17.bagaimana v #
+23.berangkat -> mismatch sama datang (gerakan mirip, per frame mirip) -> better klo pake lstm biasa 
+24.datang v 
+xx. kamu #
+xx. dia #
+xx. mereka #
+xx. kita #
+
+
+
+{STATS}
+BERANGKAT 8/10
+DIMANA 10/10
+APA 8/10
+BAGAIMANA 10/10
+BELAJAR 10/10
+INGAT 10/10
+DATANG 10/10
+SIAPA 9/10
+MENGAPA 9/10
+KAPAN 9/10
+AKU 10/10
+MAKAN 8/10
+
+
+
+
+BERANGKAT
+01 DATANG 49.03%
+02 BERANGKAT 52.94%
+03 DATANG 69.15%
+04 BERANGKAT 90.98%
+05 BERANGKAT 55.22%
+06 BERANGKAT 87.57%
+07 BERANGKAT 99.78%
+08 BERANGKAT 43.27%
+09 BERANGKAT 95.20%
+10 BERANGKAT 41.47%
+
+
+Video: test/DIMANA/1.mp4
+Predicted class: DIMANA (98.19% confidence)
+
+Video: test/DIMANA/2.mp4
+Predicted class: DIMANA (99.98% confidence)
+
+Video: test/DIMANA/3.mp4
+Predicted class: DIMANA (99.90% confidence)
+
+Video: test/DIMANA/4.mp4
+Predicted class: DIMANA (99.99% confidence)
+
+Video: test/DIMANA/5.mp4
+Predicted class: DIMANA (99.99% confidence)
+
+Video: test/DIMANA/6.mp4
+Predicted class: DIMANA (99.86% confidence)
+
+Video: test/DIMANA/7.mp4
+Predicted class: DIMANA (99.99% confidence)
+
+Video: test/DIMANA/8.mp4
+Predicted class: DIMANA (99.98% confidence)
+
+Video: test/DIMANA/9.mp4
+Predicted class: DIMANA (99.99% confidence)
+
+Video: test/DIMANA/10.mp4
+Predicted class: DIMANA (100.00% confidence)
+
+
+Video: test/APA/1.mp4
+Predicted class: APA (95.04% confidence)
+
+Video: test/APA/2.mp4
+Predicted class: APA (99.96% confidence)
+
+Video: test/APA/3.mp4
+Predicted class: BERANGKAT (49.59% confidence)
+
+Video: test/APA/4.mp4
+Predicted class: KAPAN (64.07% confidence)
+
+Video: test/APA/5.mp4
+Predicted class: APA (99.36% confidence)
+
+Video: test/APA/6.mp4
+Predicted class: APA (75.27% confidence)
+
+Video: test/APA/7.mp4
+Predicted class: APA (72.27% confidence)
+
+Video: test/APA/8.mp4
+Predicted class: APA (99.96% confidence)
+
+Video: test/APA/9.mp4
+Predicted class: BERANGKAT (46.92% confidence)
+
+Video: test/APA/10.mp4
+Predicted class: APA (99.94% confidence)
+
+
+Video: test/BAGAIMANA/1.mp4
+Predicted class: BAGAIMANA (99.98% confidence)
+
+Video: test/BAGAIMANA/2.mp4
+Predicted class: BAGAIMANA (99.96% confidence)
+
+Video: test/BAGAIMANA/3.mp4
+Predicted class: BAGAIMANA (100.00% confidence)
+
+Video: test/BAGAIMANA/4.mp4
+Predicted class: BAGAIMANA (99.98% confidence)
+
+Video: test/BAGAIMANA/5.mp4
+Predicted class: BAGAIMANA (100.00% confidence)
+
+Video: test/BAGAIMANA/6.mp4
+Predicted class: BAGAIMANA (98.80% confidence)
+
+Video: test/BAGAIMANA/7.mp4
+Predicted class: BAGAIMANA (99.99% confidence)
+
+Video: test/BAGAIMANA/8.mp4
+Predicted class: BAGAIMANA (99.97% confidence)
+
+Video: test/BAGAIMANA/9.mp4
+Predicted class: BAGAIMANA (92.26% confidence)
+
+Video: test/BAGAIMANA/10.mp4
+Predicted class: BAGAIMANA (98.67% confidence)
+
+
+Video: test/BELAJAR/1.mp4
+Predicted class: BELAJAR (99.08% confidence)
+
+Video: test/BELAJAR/2.mp4
+Predicted class: BELAJAR (99.36% confidence)
+
+Video: test/BELAJAR/3.mp4
+Predicted class: BELAJAR (96.35% confidence)
+
+Video: test/BELAJAR/4.mp4
+Predicted class: BELAJAR (99.27% confidence)
+
+Video: test/BELAJAR/5.mp4
+Predicted class: BELAJAR (99.50% confidence)
+
+Video: test/BELAJAR/6.mp4
+Predicted class: BELAJAR (99.54% confidence)
+
+Video: test/BELAJAR/7.mp4
+Predicted class: BELAJAR (98.92% confidence)
+
+Video: test/BELAJAR/8.mp4
+Predicted class: BELAJAR (99.48% confidence)
+
+Video: test/BELAJAR/9.mp4
+Predicted class: BELAJAR (99.35% confidence)
+
+Video: test/BELAJAR/10.mp4
+Predicted class: BELAJAR (96.30% confidence)
+
+
+Video: test/INGAT/1.mp4
+Predicted class: INGAT (99.92% confidence)
+
+Video: test/INGAT/2.mp4
+Predicted class: INGAT (99.87% confidence)
+
+Video: test/INGAT/3.mp4
+Predicted class: INGAT (99.85% confidence)
+
+Video: test/INGAT/4.mp4
+Predicted class: INGAT (99.84% confidence)
+
+Video: test/INGAT/5.mp4
+Predicted class: INGAT (67.27% confidence)
+
+Video: test/INGAT/6.mp4
+Predicted class: INGAT (99.95% confidence)
+
+Video: test/INGAT/7.mp4
+Predicted class: INGAT (98.64% confidence)
+
+Video: test/INGAT/8.mp4
+Predicted class: INGAT (99.90% confidence)
+
+Video: test/INGAT/9.mp4
+Predicted class: INGAT (99.92% confidence)
+
+Video: test/INGAT/10.mp4
+Predicted class: INGAT (99.85% confidence)
+
+
+Video: test/DATANG/1.mp4
+Predicted class: DATANG (94.94% confidence)
+
+Video: test/DATANG/2.mp4
+Predicted class: DATANG (99.94% confidence)
+
+Video: test/DATANG/3.mp4
+Predicted class: DATANG (99.77% confidence)
+
+Video: test/DATANG/4.mp4
+Predicted class: DATANG (99.95% confidence)
+
+Video: test/DATANG/5.mp4
+Predicted class: DATANG (98.31% confidence)
+
+Video: test/DATANG/6.mp4
+Predicted class: DATANG (99.94% confidence)
+
+Video: test/DATANG/7.mp4
+Predicted class: DATANG (99.68% confidence)
+
+Video: test/DATANG/8.mp4
+Predicted class: DATANG (99.88% confidence)
+
+Video: test/DATANG/9.mp4
+Predicted class: DATANG (99.06% confidence)
+
+Video: test/DATANG/10.mp4
+Predicted class: DATANG (98.92% confidence)
+
+
+Video: test/SIAPA/1.mp4
+Predicted class: SIAPA (99.94% confidence)
+
+Video: test/SIAPA/2.mp4
+Predicted class: SIAPA (99.96% confidence)
+
+Video: test/SIAPA/3.mp4
+Predicted class: SIAPA (99.95% confidence)
+
+Video: test/SIAPA/4.mp4
+Predicted class: SIAPA (99.96% confidence)
+
+Video: test/SIAPA/5.mp4
+Predicted class: SIAPA (99.97% confidence)
+
+Video: test/SIAPA/6.mp4
+Predicted class: BERANGKAT (59.97% confidence)
+
+Video: test/SIAPA/7.mp4
+Predicted class: SIAPA (98.36% confidence)
+
+Video: test/SIAPA/8.mp4
+Predicted class: SIAPA (99.95% confidence)
+
+Video: test/SIAPA/9.mp4
+Predicted class: SIAPA (99.97% confidence)
+
+Video: test/SIAPA/10.mp4
+Predicted class: SIAPA (99.96% confidence)
+
+
+Video: test/MENGAPA/1.mp4
+Predicted class: MENGAPA (99.92% confidence)
+
+Video: test/MENGAPA/2.mp4
+Predicted class: MENGAPA (99.91% confidence)
+
+Video: test/MENGAPA/3.mp4
+Predicted class: MAKAN (98.07% confidence)
+
+Video: test/MENGAPA/4.mp4
+Predicted class: MENGAPA (99.47% confidence)
+
+Video: test/MENGAPA/5.mp4
+Predicted class: MENGAPA (99.70% confidence)
+
+Video: test/MENGAPA/6.mp4
+Predicted class: MENGAPA (99.99% confidence)
+
+Video: test/MENGAPA/7.mp4
+Predicted class: MENGAPA (99.77% confidence)
+
+Video: test/MENGAPA/8.mp4
+Predicted class: MENGAPA (99.98% confidence)
+
+Video: test/MENGAPA/9.mp4
+Predicted class: MENGAPA (99.99% confidence)
+
+Video: test/MENGAPA/10.mp4
+Predicted class: MENGAPA (99.94% confidence)
+
+
+Allan: Video: test/KAPAN/1.mp4
+Predicted class: KAPAN (96.05% confidence)
+
+Video: test/KAPAN/2.mp4
+Predicted class: KAPAN (100.00% confidence)
+
+Video: test/KAPAN/3.mp4
+Predicted class: KAPAN (99.93% confidence)
+
+Video: test/KAPAN/4.mp4
+Predicted class: KAPAN (100.00% confidence)
+
+Video: test/KAPAN/5.mp4
+Predicted class: KAPAN (100.00% confidence)
+
+Video: test/KAPAN/6.mp4
+Predicted class: KAPAN (99.99% confidence)
+
+Video: test/KAPAN/7.mp4
+Predicted class: KAPAN (99.99% confidence)
+
+Video: test/KAPAN/8.mp4
+Predicted class: KAPAN (100.00% confidence)
+
+Video: test/KAPAN/9.mp4
+Predicted class: MAKAN (99.99% confidence)
+
+Video: test/KAPAN/10.mp4
+Predicted class: KAPAN (100.00% confidence)
+
+
+Allan: Video: test/AKU/1.mp4
+Predicted class: AKU (99.99% confidence)
+
+Video: test/AKU/2.mp4
+Predicted class: AKU (99.98% confidence)
+
+Video: test/AKU/3.mp4
+Predicted class: AKU (99.79% confidence)
+
+Video: test/AKU/4.mp4
+Predicted class: AKU (99.98% confidence)
+
+Video: test/AKU/5.mp4
+Predicted class: AKU (99.89% confidence)
+
+Video: test/AKU/6.mp4
+Predicted class: AKU (99.99% confidence)
+
+Video: test/AKU/7.mp4
+Predicted class: AKU (99.96% confidence)
+
+Video: test/AKU/8.mp4
+Predicted class: AKU (99.98% confidence)
+
+Video: test/AKU/9.mp4
+Predicted class: AKU (99.98% confidence)
+
+Video: test/AKU/10.mp4
+Predicted class: AKU (98.06% confidence)
+
+
+Video: test/MAKAN/1.mp4
+Predicted class: MAKAN (55.67% confidence)
+
+Video: test/MAKAN/2.mp4
+Predicted class: MENGAPA (84.17% confidence)
+
+Video: test/MAKAN/3.mp4
+Predicted class: MAKAN (86.52% confidence)
+
+Video: test/MAKAN/4.mp4
+Predicted class: MAKAN (63.64% confidence)
+
+Video: test/MAKAN/5.mp4
+Predicted class: MAKAN (95.26% confidence)
+
+Video: test/MAKAN/6.mp4
+Predicted class: MAKAN (98.18% confidence)
+
+Video: test/MAKAN/7.mp4
+Predicted class: MAKAN (92.40% confidence)
+
+Video: test/MAKAN/8.mp4
+Predicted class: MAKAN (99.61% confidence)
+
+Video: test/MAKAN/9.mp4
+Predicted class: MENGAPA (95.69% confidence)
+
+Video: test/MAKAN/10.mp4
+Predicted class: MAKAN (96.32% confidence)

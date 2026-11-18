@@ -1,0 +1,802 @@
+Classes list (16 kelas): ['AKU', 'APA', 'BAGAIMANA', 'BELAJAR', 'BERANGKAT', 'DATANG', 'DIA', 'DIMANA', 'INGAT', 'KAMU', 'KAPAN', 'KITA', 'MAKAN', 'MENGAPA', 'MEREKA', 'SIAPA']
+
+Memulai pengujian untuk 160 video dalam folder 'test_f1'...
+
+ ================================================================ 
+Video          : AKU_01.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_02.mp4
+True Label     : AKU
+Predicted Class: AKU (99.94%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_03.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_04.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_05.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_06.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_07.mp4
+True Label     : AKU
+Predicted Class: AKU (99.94%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_08.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_09.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : AKU_10.mp4
+True Label     : AKU
+Predicted Class: AKU (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_01.mp4
+True Label     : APA
+Predicted Class: APA (93.98%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_02.mp4
+True Label     : APA
+Predicted Class: KAPAN (82.65%) -> [SALAH]
+----------------------------------------------------------------
+Video          : APA_03.mp4
+True Label     : APA
+Predicted Class: APA (64.47%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_04.mp4
+True Label     : APA
+Predicted Class: APA (99.85%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_05.mp4
+True Label     : APA
+Predicted Class: APA (99.57%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_06.mp4
+True Label     : APA
+Predicted Class: APA (87.91%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_07.mp4
+True Label     : APA
+Predicted Class: APA (97.45%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_08.mp4
+True Label     : APA
+Predicted Class: APA (98.97%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_09.mp4
+True Label     : APA
+Predicted Class: APA (83.68%) -> [BENAR]
+----------------------------------------------------------------
+Video          : APA_10.mp4
+True Label     : APA
+Predicted Class: APA (96.32%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_01.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.75%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_02.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.70%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_03.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.71%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_04.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.73%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_05.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.74%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_06.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.77%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_07.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.69%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_08.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.75%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_09.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.72%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BAGAIMANA_10.mp4
+True Label     : BAGAIMANA
+Predicted Class: BAGAIMANA (99.71%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_01.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (98.75%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_02.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (97.88%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_03.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (96.33%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_04.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (98.97%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_05.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (98.60%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_06.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (99.12%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_07.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (97.82%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_08.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (98.51%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_09.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (98.54%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BELAJAR_10.mp4
+True Label     : BELAJAR
+Predicted Class: BELAJAR (98.67%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_01.mp4
+True Label     : BERANGKAT
+Predicted Class: APA (44.57%) -> [SALAH]
+----------------------------------------------------------------
+Video          : BERANGKAT_02.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (62.35%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_03.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (95.25%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_04.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (90.66%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_05.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (94.25%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_06.mp4
+True Label     : BERANGKAT
+Predicted Class: KITA (31.39%) -> [SALAH]
+----------------------------------------------------------------
+Video          : BERANGKAT_07.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (44.40%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_08.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (97.20%) -> [BENAR]
+----------------------------------------------------------------
+Video          : BERANGKAT_09.mp4
+True Label     : BERANGKAT
+Predicted Class: AKU (46.99%) -> [SALAH]
+----------------------------------------------------------------
+Video          : BERANGKAT_10.mp4
+True Label     : BERANGKAT
+Predicted Class: BERANGKAT (92.76%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_01.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_02.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.91%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_03.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.91%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_04.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.91%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_05.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.92%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_06.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.94%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_07.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.91%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_08.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_09.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.87%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DATANG_10.mp4
+True Label     : DATANG
+Predicted Class: DATANG (99.90%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_01.mp4
+True Label     : DIA
+Predicted Class: DIA (98.03%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_02.mp4
+True Label     : DIA
+Predicted Class: DIA (88.87%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_03.mp4
+True Label     : DIA
+Predicted Class: DIA (99.51%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_04.mp4
+True Label     : DIA
+Predicted Class: DIA (89.64%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_05.mp4
+True Label     : DIA
+Predicted Class: KAMU (97.31%) -> [SALAH]
+----------------------------------------------------------------
+Video          : DIA_06.mp4
+True Label     : DIA
+Predicted Class: DIA (97.46%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_07.mp4
+True Label     : DIA
+Predicted Class: DIA (97.20%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIA_08.mp4
+True Label     : DIA
+Predicted Class: KAMU (73.90%) -> [SALAH]
+----------------------------------------------------------------
+Video          : DIA_09.mp4
+True Label     : DIA
+Predicted Class: KAMU (96.11%) -> [SALAH]
+----------------------------------------------------------------
+Video          : DIA_10.mp4
+True Label     : DIA
+Predicted Class: DIA (91.40%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_01.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (99.40%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_02.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (91.55%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_03.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (91.29%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_04.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (98.26%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_05.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (98.88%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_06.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (97.17%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_07.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (94.35%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_08.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (97.20%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_09.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (99.50%) -> [BENAR]
+----------------------------------------------------------------
+Video          : DIMANA_10.mp4
+True Label     : DIMANA
+Predicted Class: DIMANA (99.31%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_01.mp4
+True Label     : INGAT
+Predicted Class: INGAT (98.61%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_02.mp4
+True Label     : INGAT
+Predicted Class: INGAT (97.03%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_03.mp4
+True Label     : INGAT
+Predicted Class: INGAT (96.80%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_04.mp4
+True Label     : INGAT
+Predicted Class: INGAT (97.99%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_05.mp4
+True Label     : INGAT
+Predicted Class: INGAT (97.02%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_06.mp4
+True Label     : INGAT
+Predicted Class: INGAT (97.04%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_07.mp4
+True Label     : INGAT
+Predicted Class: BERANGKAT (74.42%) -> [SALAH]
+----------------------------------------------------------------
+Video          : INGAT_08.mp4
+True Label     : INGAT
+Predicted Class: INGAT (98.25%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_09.mp4
+True Label     : INGAT
+Predicted Class: INGAT (98.45%) -> [BENAR]
+----------------------------------------------------------------
+Video          : INGAT_10.mp4
+True Label     : INGAT
+Predicted Class: INGAT (98.68%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_01.mp4
+True Label     : KAMU
+Predicted Class: DIA (86.48%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KAMU_02.mp4
+True Label     : KAMU
+Predicted Class: KAMU (98.15%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_03.mp4
+True Label     : KAMU
+Predicted Class: KAMU (78.64%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_04.mp4
+True Label     : KAMU
+Predicted Class: KAMU (96.13%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_05.mp4
+True Label     : KAMU
+Predicted Class: KAMU (98.32%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_06.mp4
+True Label     : KAMU
+Predicted Class: KAMU (94.14%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_07.mp4
+True Label     : KAMU
+Predicted Class: KAMU (96.13%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_08.mp4
+True Label     : KAMU
+Predicted Class: DIA (51.87%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KAMU_09.mp4
+True Label     : KAMU
+Predicted Class: KAMU (98.34%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAMU_10.mp4
+True Label     : KAMU
+Predicted Class: KAMU (97.52%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_01.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.76%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_02.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.01%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_03.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.38%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_04.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.76%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_05.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.82%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_06.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.69%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_07.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.81%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_08.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.78%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_09.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.53%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KAPAN_10.mp4
+True Label     : KAPAN
+Predicted Class: KAPAN (99.88%) -> [BENAR]
+----------------------------------------------------------------
+Video          : KITA_01.mp4
+True Label     : KITA
+Predicted Class: AKU (99.90%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_02.mp4
+True Label     : KITA
+Predicted Class: AKU (94.98%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_03.mp4
+True Label     : KITA
+Predicted Class: KAPAN (93.79%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_04.mp4
+True Label     : KITA
+Predicted Class: AKU (88.84%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_05.mp4
+True Label     : KITA
+Predicted Class: AKU (98.15%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_06.mp4
+True Label     : KITA
+Predicted Class: AKU (79.03%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_07.mp4
+True Label     : KITA
+Predicted Class: AKU (99.91%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_08.mp4
+True Label     : KITA
+Predicted Class: AKU (99.92%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_09.mp4
+True Label     : KITA
+Predicted Class: AKU (99.55%) -> [SALAH]
+----------------------------------------------------------------
+Video          : KITA_10.mp4
+True Label     : KITA
+Predicted Class: AKU (97.72%) -> [SALAH]
+----------------------------------------------------------------
+Video          : MAKAN_01.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.76%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_02.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.81%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_03.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.80%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_04.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (91.46%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_05.mp4
+True Label     : MAKAN
+Predicted Class: SIAPA (57.91%) -> [SALAH]
+----------------------------------------------------------------
+Video          : MAKAN_06.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.81%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_07.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.80%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_08.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.79%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_09.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.73%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MAKAN_10.mp4
+True Label     : MAKAN
+Predicted Class: MAKAN (99.81%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_01.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.61%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_02.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.63%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_03.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.67%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_04.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.53%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_05.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.63%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_06.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.62%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_07.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.71%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_08.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.64%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_09.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.66%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MENGAPA_10.mp4
+True Label     : MENGAPA
+Predicted Class: MENGAPA (99.57%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_01.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_02.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.92%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_03.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.90%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_04.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.90%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_05.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.92%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_06.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.92%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_07.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_08.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_09.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : MEREKA_10.mp4
+True Label     : MEREKA
+Predicted Class: MEREKA (99.93%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_01.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (98.59%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_02.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (98.65%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_03.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (95.49%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_04.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (99.32%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_05.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (99.25%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_06.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (99.19%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_07.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (98.65%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_08.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (98.57%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_09.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (95.21%) -> [BENAR]
+----------------------------------------------------------------
+Video          : SIAPA_10.mp4
+True Label     : SIAPA
+Predicted Class: SIAPA (98.81%) -> [BENAR]
+----------------------------------------------------------------
+
+ ================================================================ 
+                HASIL METRIK PER KELAS & F1-SCORE                 
+ ================================================================ 
+Kelas: AKU
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 140
+  - False Positive (FP) : 10
+  - False Negative (FN) : 0
+  - Precision           : 50.00%
+  - Recall              : 100.00%
+  - F1-Score            : 0.6667 (66.67%)
+----------------------------------------------------------------
+Kelas: APA
+  - True Positive (TP)  : 9
+  - True Negative (TN)  : 149
+  - False Positive (FP) : 1
+  - False Negative (FN) : 1
+  - Precision           : 90.00%
+  - Recall              : 90.00%
+  - F1-Score            : 0.9000 (90.00%)
+----------------------------------------------------------------
+Kelas: BAGAIMANA
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 0
+  - Precision           : 100.00%
+  - Recall              : 100.00%
+  - F1-Score            : 1.0000 (100.00%)
+----------------------------------------------------------------
+Kelas: BELAJAR
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 0
+  - Precision           : 100.00%
+  - Recall              : 100.00%
+  - F1-Score            : 1.0000 (100.00%)
+----------------------------------------------------------------
+Kelas: BERANGKAT
+  - True Positive (TP)  : 7
+  - True Negative (TN)  : 149
+  - False Positive (FP) : 1
+  - False Negative (FN) : 3
+  - Precision           : 87.50%
+  - Recall              : 70.00%
+  - F1-Score            : 0.7778 (77.78%)
+----------------------------------------------------------------
+Kelas: DATANG
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 0
+  - Precision           : 100.00%
+  - Recall              : 100.00%
+  - F1-Score            : 1.0000 (100.00%)
+----------------------------------------------------------------
+Kelas: DIA
+  - True Positive (TP)  : 7
+  - True Negative (TN)  : 148
+  - False Positive (FP) : 2
+  - False Negative (FN) : 3
+  - Precision           : 77.78%
+  - Recall              : 70.00%
+  - F1-Score            : 0.7368 (73.68%)
+----------------------------------------------------------------
+Kelas: DIMANA
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 0
+  - Precision           : 100.00%
+  - Recall              : 100.00%
+  - F1-Score            : 1.0000 (100.00%)
+----------------------------------------------------------------
+Kelas: INGAT
+  - True Positive (TP)  : 9
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 1
+  - Precision           : 100.00%
+  - Recall              : 90.00%
+  - F1-Score            : 0.9474 (94.74%)
+----------------------------------------------------------------
+Kelas: KAMU
+  - True Positive (TP)  : 8
+  - True Negative (TN)  : 147
+  - False Positive (FP) : 3
+  - False Negative (FN) : 2
+  - Precision           : 72.73%
+  - Recall              : 80.00%
+  - F1-Score            : 0.7619 (76.19%)
+----------------------------------------------------------------
+Kelas: KAPAN
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 148
+  - False Positive (FP) : 2
+  - False Negative (FN) : 0
+  - Precision           : 83.33%
+  - Recall              : 100.00%
+  - F1-Score            : 0.9091 (90.91%)
+----------------------------------------------------------------
+Kelas: KITA
+  - True Positive (TP)  : 0
+  - True Negative (TN)  : 149
+  - False Positive (FP) : 1
+  - False Negative (FN) : 10
+  - Precision           : 0.00%
+  - Recall              : 0.00%
+  - F1-Score            : 0.0000 (0.00%)
+----------------------------------------------------------------
+Kelas: MAKAN
+  - True Positive (TP)  : 9
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 1
+  - Precision           : 100.00%
+  - Recall              : 90.00%
+  - F1-Score            : 0.9474 (94.74%)
+----------------------------------------------------------------
+Kelas: MENGAPA
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 0
+  - Precision           : 100.00%
+  - Recall              : 100.00%
+  - F1-Score            : 1.0000 (100.00%)
+----------------------------------------------------------------
+Kelas: MEREKA
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 150
+  - False Positive (FP) : 0
+  - False Negative (FN) : 0
+  - Precision           : 100.00%
+  - Recall              : 100.00%
+  - F1-Score            : 1.0000 (100.00%)
+----------------------------------------------------------------
+Kelas: SIAPA
+  - True Positive (TP)  : 10
+  - True Negative (TN)  : 149
+  - False Positive (FP) : 1
+  - False Negative (FN) : 0
+  - Precision           : 90.91%
+  - Recall              : 100.00%
+  - F1-Score            : 0.9524 (95.24%)
+----------------------------------------------------------------
+ ================================================================ 
+ Macro-Average F1-Score Keseluruhan : 0.8500 (85.00%)
+ ================================================================ 
+
+
+
+
+
+3 x 30 = 90
